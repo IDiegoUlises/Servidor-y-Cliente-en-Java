@@ -1,4 +1,4 @@
-Este servidor y cliente en java esta diseñado para que cualquier dipositivo que ejecute java como computador, telefono, televisor y en una raspbery pi pueda ser un cliente y un servidor.
+Este servidor y cliente esta diseñado para que cualquier dipositivo que ejecute java como computador, telefono, televisor y en una raspbery pi pueda ser un cliente y un servidor.
 
 Yo diseñe este codigo para que una raspberry ejecute el servidor y un televisor con android pueda ser el cliente. Esto puede servir en cualquier dispositivo que se pueda programar en java, son muchisimas opciones!
 
