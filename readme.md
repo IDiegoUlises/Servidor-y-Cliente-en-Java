@@ -4,7 +4,7 @@
 
 **Funcion Del Codigo:** Inicia una comunicacion socket en la cual se intercambian datos tanto como el servidor y un usuario.
 
-**Aclaracion Sobre Multiprocesos:** Esto recibe y envia datos en una misma conexion, para esto necesitaremos realizar una multiproceso para realizar 2 tareas diferentes que es escuchar datos y enviar datos al mismo tiempo yo diseñe un sencillo "truco" para no utilizar el multiproceso y realizar la tarea en un solo proceso.
+**Aclaracion Sobre Multiprocesos:** Esto recibe y envia datos en una misma conexion, para esto necesitaremos realizar una multiproceso para realizar 2 tareas diferentes que es escuchar datos y enviar datos al mismo tiempo yo diseñe un sencillo **"truco"** para no utilizar el multiproceso y realizar la tarea en un solo proceso.
 
 **Bucle Infinito:** En la comunicacion de redes se utilizara una funcion para la lectura de los datos como por ejemplo Read(); la funcion contiene un bucle infinito el bucle solo puede terminar si recibe un dato para evitar que se cuelge se puede utilizar SeTimeOut(); que significa establecer tiempo de respuesta para terminar la conexion para evitar que se cuelgue.
 
