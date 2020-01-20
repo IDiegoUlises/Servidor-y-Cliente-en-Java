@@ -6,6 +6,8 @@ Funcion Del Codigo: El servidor permance en la espera hasta que se establezca un
 
 Aclaracion de codigo: Esto recibe y envia datos en una misma conexion, para esto necesitaremos realizar una multiproceso para realizar 2 tareas diferentes que es escuchar datos y enviar datos al mismo tiempo yo diseñe un sencillo "truco" para evitar utilizar multiproceso y se pueda realizar la escucha y el envio de datos en un solo proceso.
 
+Bucle Infinito: En la comunicacion de redes se utilizara cualquier tipo de Read(); para leer los datos, aclarar que los Read(); la funcion contiene un bucle infinito es decir si el servidor nunca manda un dato estara para siempre esperando el dato es decir que su softaware se quedara colgado para siempre sin poder realizar ninguna funcion para evitar esto se utiliza la funcion SetTimoOut(); tiempo de espera para terminar la conexion es decir usted define la cantidad de tiempo para terminar la conexion asi poder terminar el bucle infinito.
+
 Implementacion con otros lenguajes: Yo principalmente esto lo habia diseñado el servidor en python y el cliente en java todo funciona correctamente. Usted puede programar el servidor en python si usted lo desea o en cualquier otro lenguaje y el cliente en java.
 
 Implementacion con otros lenguajes un detalle en el codigo:
