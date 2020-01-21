@@ -26,9 +26,9 @@
 
 **Rompiendo El Cifrado Asimetrico:** Mi **clave publica es 33** para poder decifrar se debe realizar multiplicaciones en numeros primos como por ejemplo **2x3=3** el numero 2 y 3 **son numeros primos** ahora multiplicamos **3x11=33** y el resultado es 33 con estos 2 **numeros primos** utilizado para obtener el resultado de **33** se decifra la clave privada.
 
-**¿Porque Es Imposible Romper Este Cifrado?**
+## ¿Porque Es Imposible Romper Este Cifrado?
 
-Un atacante o un hacker intentara decifrar el mensaje con el metodo anterior, y **si lo va poder decifrar** el inconveniente es que el tiempo que se va demorar en decifrarlo van hacer **60 años o mas**, la proteccion de este cifrado se basa que necesitara una enorme cantidad de computo para poder decifrarlo algo que para la mayoria de dispositivos es imposible.
+Un atacante o un hacker intentara decifrar el mensaje con el metodo anterior, y **si lo va poder decifrar** el inconveniente es que el tiempo que se va demorar en decifrarlo van hacer **60 años o mas**, la seguridad de este cifrado se basa que necesitara una enorme cantidad de computo para poder decifrarlo algo que para la mayoria de dispositivos es imposible.
 
 **Decifrar Con Una Computadora Cuantica:** Cuando los procesadores cuanticos que utilizan quibits para manejar intrucciones lleguen a hacer el estandar del mercado esta cifrado quedara obsoleto ya que los procesadores cuanticos tiene un cantidad de computo exponencial.
 
