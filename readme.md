@@ -22,7 +22,7 @@
 
 **Funcionamiento De Cifrado Asimetrico:** El emisor de la comunicacion genera una clave privada y una publica mediante **numeros primos** el emisor envia la clave publica y el receptor devuelve un mensaje cifrado con la clave publica luego el emisor decifra el mensaje con la clave privada.
 
-**Como Romper El Cifrado Asimetrico:** Obteniendo la clave publica se debe realizar una multiplicacion utilizando numeros primos y el resultado que es igual a clave publica es la clave privada.
+**Como Romper El Cifrado Asimetrico:** Se debe realizar una multiplicacion utilizando numeros primos que de el mismo resultado que la clave publica y los numeros primos utilizado en la multiplicacion forman la clave privada.
 
 **Rompiendo El Cifrado Asimetrico:** Mi **clave publica es 33** para poder decifrar se debe realizar multiplicaciones en numeros primos como por ejemplo **2x3=3** el numero 2 y 3 **son numeros primos** ahora multiplicamos **3x11=33** y el resultado es 33 con estos 2 **numeros primos** utilizado para obtener el resultado de **33** se decifra la clave privada.
 
