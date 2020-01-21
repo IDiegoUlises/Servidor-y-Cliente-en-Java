@@ -1,6 +1,6 @@
 # Creacion De Un Cliente y Servidor
 
-### Este servidor y cliente esta diseñado para que cualquier dipositivo que ejecute java pueda realizar una comunicacion socket mediante tcp/ip. Yo diseñe este codigo para que una raspberry pi 3 ejecute el servidor y un televisor android ejecute el cliente.
+### Este servidor y cliente esta diseñado para que cualquier dipositivo que ejecute java pueda realizar una comunicacion socket mediante tcp/ip. Yo diseñe este codigo para que una raspberry pi 3 ejecute el servidor y un televisor ejecute el cliente.
 
 **Funcion Del Codigo:** Inicia una comunicacion socket en la cual se intercambian datos tanto como el servidor y un usuario.
 
