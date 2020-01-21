@@ -21,7 +21,7 @@
 
 ### Android TV
 
-<img src="https://github.com/IDiegoUlises/servidor-y-cliente-en-java/blob/master/Imagenes/Android%20TV.jpg" alt="Your image title" width="1000"/>
+<img src="https://github.com/IDiegoUlises/servidor-y-cliente-en-java/blob/master/Imagenes/Android%20TV.jpg" width="1000" height="600" />
 
 
 
