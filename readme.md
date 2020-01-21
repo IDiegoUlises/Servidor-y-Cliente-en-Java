@@ -35,13 +35,13 @@ Un atacante o un hacker intentara decifrar el mensaje con el metodo anterior, y 
 
 
 
-### Android TV
+## Android TV
 
 <img src="https://github.com/IDiegoUlises/servidor-y-cliente-en-java/blob/master/Imagenes/Android%20TV.jpg" width="1000" height="600" />
 
 
 
-### Servidor Desktop
+## Servidor Desktop
 
 ![alt text](https://github.com/IDiegoUlises/servidor-y-cliente-en-java/blob/master/Imagenes/Desktop.png)
 
