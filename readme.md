@@ -8,7 +8,7 @@
 
 **Bucle Infinito:** En la comunicacion de redes se utilizara una funcion para la lectura de los datos como por ejemplo Read(); la funcion contiene un bucle infinito el bucle solo puede terminar si recibe un dato para evitar que se cuelge se puede utilizar SeTimeOut(); que significa establecer tiempo de respuesta para terminar la conexion para evitar que se cuelgue.
 
-**App De Android:** Si usted quiere ejecutarlo en una aplicacion android debe aplicar los permisos de la app.
+**App De Android:** Si usted quiere ejecutarlo en una aplicacion android debe asignar los permisos correspondiende de la aplicacion para el correcto funcionamiento.
 
 **Implementacion Con Otros Lenguajes:** Principalmente se habia diseñado el servidor en python y el cliente en java todo funcionaba correctamente, usted puede programar el servidor en python o en cualquier otro lenguaje.
 
