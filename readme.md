@@ -16,17 +16,18 @@
 
 **Defecto De Codigo Si Implementa Otra Lenguaje:** La funcion readUTF(); y writeUTF(); no tiene mucha compatibilidad con diferentes lenguajes de programacion, funcionan con el detalle que writeUTF(); manda 2 caracteres inutiles que sirven para establecer la comunicacion con UTF-8 es decir que usted mandara 2 caracteres adicional en su mensaje y cuando utilize readUTF(); los 2 primeros caracteres se eliminaran, tendra estos inconvenientes si utiliza un lenguaje diferente.
 
-**Seguridad:** Los datos que envian no estan cifrado es decir que son vunerable en un **ataque de hombre en el medio** ahi que tener esto en cuenta si se envian datos **sensibles** como por ejemplo contraseñas.
+**Seguridad:** Los datos que envian no estan cifrado es decir que son vunerable en un **ataque de hombre en el medio** ahi que tener esto en cuenta si se envian datos **sensibles** como por ejemplo **contraseñas**.
 
 **Como Proteger Datos Sensibles**: Se debe implemantar un cifrado asimetrico con firmas certificadas por el algoritmo **RSA** todo esto esto es una parte de **seguridad de la capa de transporte(TLS)**.
 
-**Funcionamiento De Cifrado Asimetrico:** El emisor del mensaje genera una privada y una publica mediante **numeros primos** el emisor envia la clave publica y el receptor devuelve un mensaje cifrado con la clave publica luego el emisor decifra el mensaje mediante la clave privada.
+**Funcionamiento De Cifrado Asimetrico:** El emisor de la comunicacion genera una clave privada y una publica mediante **numeros primos** el emisor envia la clave publica y el receptor devuelve un mensaje cifrado con la clave publica luego el emisor decifra el mensaje con la clave privada.
 
 **Como Romper El Cifrado Asimetrico:** Obteniendo la clave publica se debe realizar una multiplicacion utilizando numeros primos y el resultado que es igual a clave publica es la clave privada.
 
 **Rompiendo El Cifrado Asimetrico:** Mi **clave publica es 33** para poder decifrar se debe realizar multiplicaciones en numeros primos como por ejemplo **2x3=3** el numero 2 y 3 **son numeros primos** ahora multiplicamos **3x11=33** y el resultado es 33 con estos 2 **numeros primos** utilizado para obtener el resultado de **33** se decifra la clave privada.
 
 **¿Porque Es Imposible Romper Este Cifrado?**
+
 Un atacante o un hacker intentara decifrar el mensaje con el metodo anterior, y **si lo va poder decifrar** el inconveniente es que el tiempo que se va demorar en decifrarlo van hacer **60 años o mas**, la proteccion de este cifrado se basa que necesitara una enorme cantidad de computo para poder decifrarlo algo que para la mayoria de dispositivos es imposible.
 
 **Decifrar Con Una Computadora Cuantica:** Cuando los procesadores cuanticos que utilizan quibits para manejar intrucciones lleguen a hacer el estandar del mercado esta cifrado quedara obsoleto ya que los procesadores cuanticos tiene un cantidad de computo exponencial.
