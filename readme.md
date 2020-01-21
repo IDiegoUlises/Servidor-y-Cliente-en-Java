@@ -15,3 +15,8 @@
 **Implementacion Con Otros Lenguajes:** Principalmente se habia diseñado el servidor en python y el cliente en java todo funcionaba correctamente, usted puede programar el servidor en python o en cualquier otro lenguaje.
 
 **Defecto De Codigo Si Implementa Otra Lenguaje:** La funcion readUTF(); y writeUTF(); no tiene mucha compatibilidad con diferentes lenguajes de programacion, funcionan con el detalle que writeUTF(); manda 2 caracteres inutiles que sirven para establecer la comunicacion con UTF-8 es decir que usted mandara 2 caracteres adicional en su mensaje y cuando utilize readUTF(); los 2 primeros caracteres se eliminaran, tendra estos inconvenientes si utiliza un lenguaje diferente.
+
+
+### Screenhots debug de desktop servidor
+
+![alt text](https://github.com/IDiegoUlises/servidor-y-cliente-en-java/blob/master/Imagenes/Desktop.png)
