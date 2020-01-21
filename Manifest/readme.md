@@ -1,1 +1,1 @@
-### Debe agregar el permiso de internet para que la aplicacion pueda funcionar correctamente
+### En el caso que usted lo diseñe para una aplicacion de android debe agregar este permiso
