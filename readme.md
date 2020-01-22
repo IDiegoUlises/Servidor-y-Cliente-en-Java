@@ -51,8 +51,10 @@ Un atacante o un hacker intentara decifrar el mensaje con el metodo anterior, y 
 
 ![alt text](https://github.com/IDiegoUlises/servidor-y-cliente-en-java/blob/master/Imagenes/Desktop.png)
 
+### Finish
+
+<p align="center">
+  <img width="150" height="150" src="https://github.com/IDiegoUlises/servidor-y-cliente-en-java/blob/master/Imagenes/Emoji-Positivo.png">
+</p>
 
 ## Esto me costo mucho tiempo mucho trabajo meses de investigacion y aprendizaje porfavor deja un comentario positivo si a tambien te resulto util unos de mis proyectos   
-<p align="center">
-  <img width="100" height="100" src="https://github.com/IDiegoUlises/servidor-y-cliente-en-java/blob/master/Imagenes/Emoji-Positivo.png">
-</p>
