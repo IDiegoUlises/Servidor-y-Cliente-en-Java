@@ -30,7 +30,7 @@
 
 Un atacante o un hacker intentara decifrar el mensaje con el metodo anterior, y **si lo va poder decifrar** el inconveniente es que el tiempo que se va demorar en decifrarlo van hacer **60 años o mas**, la seguridad de este cifrado se basa que necesitara una enorme cantidad de computo para poder decifrarlo algo que para la mayoria de dispositivos es imposible.
 
-**Decifrar Con Una Computadora Cuantica:** Cuando los procesadores cuanticos que utilizan quibits para manejar intrucciones lleguen a hacer el estandar del mercado esta cifrado quedara obsoleto ya que los procesadores cuanticos tiene un cantidad de computo exponencial la computadora cuantica de **IBM** puede romper este cifrado en solo segundos.
+**Decifrar Con Una Computadora Cuantica:** Cuando los procesadores cuanticos que utilizan quibits para manejar intrucciones lleguen a hacer el estandar del mercado esta cifrado quedara obsoleto ya que los procesadores cuanticos tiene un cantidad de computo exponencial, la computadora cuantica de **IBM** puede romper este cifrado en menos de un segundo.
 
 **Decifrar Con Un SuperComputador:** En Suiza existen 2 superordenadores en todo el pais y alemania solo existen 14 superordenadores, en todo el planeta solo estan disponible 495 superordenadores repartidos por todo el mundo con una potencia de calculo aproximado a **148 petaflops** que realizan más de 1000 billones de operaciones por segundo es todo esto suficiente para romper este cifrado en segundos.
 
