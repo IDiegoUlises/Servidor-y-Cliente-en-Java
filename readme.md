@@ -34,7 +34,7 @@ Un atacante o un hacker intentara decifrar el mensaje con el metodo anterior, y 
 
 **Decifrar Con Un SuperComputador:** En Suiza existen 2 superordenadores en todo el pais y alemania solo existen 14 superordenadores, en todo el planeta solo estan disponible 495 superordenadores repartidos por todo el mundo con una potencia de calculo aproximado a **148 petaflops** que realizan más de 1000 billones de operaciones por segundo es todo esto suficiente para romper este cifrado en segundos.
 
-**Vunerabilida Por Generar Claves Publicas Repetitivas:** Una persona puede generar numeros aleatorios pero una computadora es imposible que generare un numero aleatorio. Un **ejemplo:** tu computadora genera 3 numeros aleatorios que son **3,6 y 9** luego apagas el computador lo vuelves a encender y vuelves generar numeros aleatorio y estos numeros aleatorios seran **3,6 y 9** es decir siempre va a repetir los mismos numeros para siempre.
+**Vunerabilidad Por Generar Claves Publicas Repetitivas:** Una persona puede generar numeros aleatorios pero una computadora es imposible que generare un numero aleatorio. Un **ejemplo:** tu computadora generara 3 numeros aleatorios que seran **3,6 y 9** luego apagas el computador lo vuelves a encender y vuelves generar numeros aleatorio y estos numeros aleatorios seran **3,6 y 9** es decir siempre va a repetir los mismos numeros para siempre.
 
 **Como Generar Numeros Aleatorios:** Se pueden generar numeros aleatorios basada en la medicion del clima de un lugar ya que la temperatura de por ejemplo en Francia nadie puede predecir exactamente el patron del clima.
 
