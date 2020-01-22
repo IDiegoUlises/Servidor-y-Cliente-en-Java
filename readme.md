@@ -57,4 +57,4 @@ Un atacante o un hacker intentara decifrar el mensaje con el metodo anterior, y 
   <img width="150" height="150" src="https://github.com/IDiegoUlises/servidor-y-cliente-en-java/blob/master/Imagenes/Emoji-Positivo.png">
 </p>
 
-## Esto me costo mucho tiempo, meses de investigacion y aprendizaje porfavor deja un comentario positivo si a tambien te resulto util unos de mis proyectos.
+## Esto me costo mucho tiempo, meses de investigacion y aprendizaje porfavor deja un comentario positivo si tambien te resulto util unos de mis proyectos.
