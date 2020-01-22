@@ -14,7 +14,7 @@
 
 **Implementacion Con Otros Lenguajes:** Principalmente se habia diseñado el servidor en python y el cliente en java usted puede programar el servidor en python o en cualquier otro lenguaje.
 
-**Defecto De Codigo Si Implementa Otra Lenguaje:** La funcion readUTF(); y writeUTF(); no tiene mucha compatibilidad con diferentes lenguajes de programacion, funcionan con el detalle que writeUTF(); manda 2 caracteres inutiles que sirven para establecer la comunicacion con UTF-8 es decir que usted mandara 2 caracteres adicional en su mensaje y cuando utilize readUTF(); los 2 primeros caracteres se eliminaran, tendra estos inconvenientes si utiliza un lenguaje diferente.
+**Defecto De Codigo Si Implementa Otra Lenguaje:** La funcion readUTF(); y writeUTF(); no tiene mucha compatibilidad con diferentes lenguajes de programacion, funcionan con el detalle que writeUTF(); manda 2 caracteres inutiles que sirven para establecer la comunicacion con UTF-8 es decir que usted mandara 2 caracteres adicionales en su mensaje y cuando utilize readUTF(); los 2 primeros caracteres se eliminaran, tendra estos inconvenientes si utiliza un lenguaje diferente.
 
 **Seguridad:** Los datos que envian no estan cifrado es decir que son vunerable en un **ataque de hombre en el medio** ahi que tener esto en cuenta si se envian datos **sensibles** como por ejemplo **contraseñas**.
 
@@ -30,11 +30,11 @@
 
 Un atacante o un hacker intentara decifrar el mensaje con el metodo anterior, y **si lo va poder decifrar** el inconveniente es que el tiempo que se va demorar en decifrarlo van hacer **60 años o mas**, la seguridad de este cifrado se basa que necesitara una enorme cantidad de computo para poder decifrarlo algo que para la mayoria de dispositivos es imposible.
 
-**Decifrar Con Una Computadora Cuantica:** Cuando los procesadores cuanticos que utilizan quibits para manejar intrucciones lleguen a hacer el estandar del mercado esta cifrado quedara obsoleto ya que los procesadores cuanticos tiene un cantidad de computo exponencial y ya que pueden decifrarlo en solo segundos.
+**Decifrar Con Una Computadora Cuantica:** Cuando los procesadores cuanticos que utilizan quibits para manejar intrucciones lleguen a hacer el estandar del mercado esta cifrado quedara obsoleto ya que los procesadores cuanticos tiene un cantidad de computo exponencial la computadora cuantica de **IBM** puede romper este cifrado en solo segundos.
 
 **Decifrar Con Un SuperComputador:** En Suiza existen 2 superordenadores en todo el pais y alemania solo existen 14 superordenadores, en todo el planeta solo estan disponible 495 superordenadores repartidos por todo el mundo con una potencia de calculo aproximado a **148 petaflops** que realizan más de 1000 billones de operaciones por segundo es todo esto suficiente para romper este cifrado en segundos.
 
-**Vunerabilidad Por Generar Claves Publicas Repetitivas:** Una persona puede generar numeros aleatorios pero una computadora es imposible que generare un numero aleatorio. Un **ejemplo:** tu computadora generara 3 numeros aleatorios que seran **3,6 y 9** luego apagas el computador lo vuelves a encender y vuelves generar numeros aleatorio y estos numeros aleatorios seran **3,6 y 9** es decir siempre va a repetir los mismos numeros para siempre.
+**Vunerabilidad Por Generar Claves Publicas Repetitivas:** Una persona puede generar numeros aleatorios pero una computadora es imposible que genere un numero aleatorio. Un **ejemplo** tu computadora generara 3 numeros aleatorios que seran **3,6 y 9** luego apagas el computador lo vuelves a encender vuelves generar numeros aleatorio  estos numeros aleatorios se volveran a repetir **3,6 y 9** es decir siempre va a repetir los mismos numeros para siempre.
 
 **Como Generar Numeros Aleatorios:** Se pueden generar numeros aleatorios basada en la medicion del clima de un lugar ya que la temperatura de por ejemplo en Francia nadie puede predecir exactamente el patron del clima.
 
