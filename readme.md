@@ -53,6 +53,8 @@ Un atacante o un hacker intentara decifrar el mensaje con el metodo anterior, y 
 
 ## Finished
 
+**Segunda Parte:** [Algoritmos de seguridad de un servidor](https://github.com/IDiegoUlises/Servidor-y-Cliente-En-Python)
+
 <p align="center">
   <img width="150" height="150" src="https://github.com/IDiegoUlises/servidor-y-cliente-en-java/blob/master/Imagenes/Emoji-Positivo.png">
 </p>
