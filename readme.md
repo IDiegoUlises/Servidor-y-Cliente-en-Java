@@ -4,7 +4,7 @@
 
 **Multiprocesos:** Para esto necesitaremos utilizar multiprocesos para usar ```read();``` y ```write();``` simultanamente yo diseñe un algoritmo para no implementar el multiproceso para realizar la comunicacion en una solo proceso.
 
-**Bucle Infinito:** En la comunicacion de redes se utilizara una funcion para la lectura como ```Read();``` la funcion es un bucle infinito que solo puede salir cuando recibe un dato para evitar esto puede usar ```SeTimeOut();``` que significa establecer tiempo de respuesta para terminar la conexion.
+**Bucle Infinito:** En la comunicacion utilizara la funcion de lectura como ```Read();``` es un bucle infinito que solo puede salir cuando recibe un dato para evitar esto puede usar ```SeTimeOut();``` que significa establecer tiempo de respuesta para terminar la conexion.
 
 **App De Android:** Para ejecutarlo en una aplicacion android debe asignar los permisos correspondiende de la aplicacion para el correcto funcionamiento.
 
