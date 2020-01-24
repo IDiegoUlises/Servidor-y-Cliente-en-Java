@@ -2,7 +2,7 @@
 
 **Funcion:** Realiza una comunicacion socket por el protocolo **TCP/IP** diseñe este codigo para mi **Raspberry** pi 3 sea el servidor para que pueda conectase mi **televisor.**
 
-**Aclaracion Sobre Multiprocesos:** Esto recibe y envia datos en una misma conexion, para esto necesitaremos realizar una multiproceso para realizar 2 tareas diferentes que es escuchar datos y enviar datos al mismo tiempo yo diseñe un sencillo **"truco"** para no utilizar el multiproceso y realizar la tarea en un solo proceso.
+**Multiprocesos:** Para esto necesitaremos utilizar multiprocesos para usar ```read();``` y ```write();``` simultanamente yo diseñe un algoritmo para no implementar el multiproceso para realizar la comunicacion en una solo proceso.
 
 **Bucle Infinito:** En la comunicacion de redes se utilizara una funcion para la lectura de los datos como por ejemplo Read(); la funcion contiene un bucle infinito el bucle solo puede terminar si recibe un dato para evitar que se cuelge se puede utilizar SeTimeOut(); que significa establecer tiempo de respuesta para terminar la conexion para evitar que se cuelgue.
 
@@ -12,7 +12,7 @@
 
 **Implementacion Con Otros Lenguajes:** Principalmente se habia diseñado el servidor en python y el cliente en java usted puede programar el servidor en python o en cualquier otro lenguaje.
 
-**Defecto De Codigo Si Implementa Otra Lenguaje:** La funcion readUTF(); y writeUTF(); no tiene mucha compatibilidad con diferentes lenguajes de programacion, funcionan con el detalle que writeUTF(); manda 2 caracteres inutiles que sirven para establecer la comunicacion con UTF-8 es decir que usted mandara 2 caracteres adicionales en su mensaje y cuando utilize readUTF(); los 2 primeros caracteres se eliminaran, tendra estos inconvenientes si utiliza un lenguaje diferente.
+**Defecto De Codigo Si Implementa Otra Lenguaje:** La funcion ```readUTF();``` y ```writeUTF();``` no tiene mucha compatibilidad con diferentes lenguajes de programacion, funcionan con el detalle que ```writeUTF();``` manda 2 caracteres inutiles que sirven para establecer la comunicacion con **UTF-8** es decir que usted mandara 2 caracteres adicionales en su mensaje y cuando utilize ```readUTF();``` los 2 primeros caracteres se eliminaran, tendra estos inconvenientes si utiliza un lenguaje diferente.
 
 ## Seguridad
 Los datos que envian no estan cifrado es decir que son vunerable en un **ataque de hombre en el medio** ahi que tener esto en cuenta si se envian datos **sensibles** como por ejemplo **contraseñas**.
@@ -23,7 +23,7 @@ Los datos que envian no estan cifrado es decir que son vunerable en un **ataque 
 
 **Como Romper El Cifrado Asimetrico:** Se debe realizar una multiplicacion utilizando numeros primos que de el mismo resultado que la clave publica y los numeros primos utilizado en la multiplicacion forman la clave privada.
 
-**Rompiendo El Cifrado Asimetrico:** Mi **clave publica es 33** para poder decifrar se debe realizar multiplicaciones en numeros primos como por ejemplo **2x3=3** el numero 2 y 3 **son numeros primos** ahora multiplicamos **3x11=33** y el resultado es 33 con estos 2 **numeros primos** utilizado para obtener el resultado de **33** se decifra la clave privada.
+**Rompiendo El Cifrado Asimetrico:** Mi ```clave publica es 33``` para poder decifrar se debe realizar multiplicaciones en numeros primos como por **ejemplo** ```2x3=3``` el numero ```2``` y ```3``` **son numeros primos** ahora multiplicamos ```3x11=33``` y el resultado es ```33``` con estos 2 **numeros primos** utilizado para obtener el resultado de 33 se decifra la clave privada.
 
 ## ¿Porque Es Imposible Romper Este Cifrado?
 
