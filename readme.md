@@ -12,7 +12,7 @@
 
 **Emigrar el Servidor:** Principalmente se habia diseñado el servidor en python y el cliente en java usted puede emigrar el servidor en python o en cualquier otro lenguaje.
 
-**Compatibilidad al Emigrar:** Cuando utilize ```writeUTF();``` enviara 2 caracteres adicionales cuando utilize ```readUTF();``` los  dos primeros caracteres que obtendra se eliminaran esto en el caso que aplique un lenguaje diferente .
+**Compatibilidad al Emigrar:** Cuando utilize ```writeUTF();``` enviara 2 caracteres adicionales cuando utilize ```readUTF();``` los  dos primeros caracteres que obtendra se eliminaran esto en el caso que utilize un lenguaje diferente .
 
 ## Seguridad
 Los datos que envian no estan cifrado es decir que son vunerable en un **ataque de hombre en el medio** ahi que tener esto en cuenta si se envian datos **sensibles** como por ejemplo **contraseñas**.
