@@ -12,7 +12,7 @@
 
 **Emigrar el Servidor:** Principalmente se habia diseñado el servidor en python y el cliente en java usted puede emigrar el servidor en python o en cualquier otro lenguaje.
 
-**Compatibilidad al Emigrar:** La funcion ```readUTF();``` y ```writeUTF();``` no tiene mucha compatibilidad con diferentes lenguajes de programacion, funcionan con el detalle que ```writeUTF();``` manda 2 caracteres inutiles que sirven para establecer la comunicacion con **UTF-8** es decir que usted mandara 2 caracteres adicionales en su mensaje y cuando utilize ```readUTF();``` los 2 primeros caracteres se eliminaran, tendra estos inconvenientes si utiliza un lenguaje diferente.
+**Compatibilidad al Emigrar:** La funcion ```readUTF();``` y ```writeUTF();``` no tiene compatibilidad completa con diferentes lenguajes de programacion con el detalle que ```writeUTF();``` envia 2 caracteres adicionales para establecer la comunicacion con **UTF-8**  y cuando use ```readUTF();``` los  dos primeros caracteres se eliminaran.
 
 ## Seguridad
 Los datos que envian no estan cifrado es decir que son vunerable en un **ataque de hombre en el medio** ahi que tener esto en cuenta si se envian datos **sensibles** como por ejemplo **contraseñas**.
