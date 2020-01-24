@@ -43,13 +43,13 @@ Para una computadora es imposible que genere numeros aleatorios. Un **ejemplo** 
 
 
 
-## Android TV
+# Android TV
 
 <img src="https://github.com/IDiegoUlises/servidor-y-cliente-en-java/blob/master/Imagenes/Android%20TV.jpg" width="1000" height="600" />
 
 
 
-## Servidor Desktop
+# Servidor Desktop
 
 ![alt text](https://github.com/IDiegoUlises/servidor-y-cliente-en-java/blob/master/Imagenes/Desktop.png)
 
