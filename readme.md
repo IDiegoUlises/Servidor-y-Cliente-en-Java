@@ -1,6 +1,6 @@
 # Creacion De Un Cliente y Servidor
 
-**Funcion:** Realiza una comunicacion socket por el protocolo **TCP/IP** diseñe este codigo para mi **Raspberry** pi 3 sea el servidor para que pueda conectase mi **televisor.**
+**Funcion:** Realiza una comunicacion socket por el protocolo **TCP/IP** diseñe este codigo para mi **raspberry** pi 3 sea el servidor para que pueda conectase mi **televisor.**
 
 **Multiprocesos:** Para esto necesitaremos utilizar multiprocesos para usar ```read();``` y ```write();``` simultanamente yo diseñe un algoritmo para no implementar el multiproceso para realizar la comunicacion en una solo proceso.
 
