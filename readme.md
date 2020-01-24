@@ -19,7 +19,7 @@ Los datos que envian no estan cifrado es decir que son vunerable en un **ataque 
 
 **Como Proteger Datos Sensibles**: Se debe implemantar un cifrado asimetrico con firmas certificadas por el algoritmo **RSA** todo esto esto es una parte de **seguridad de la capa de transporte(TLS)**.
 
-**Como Funciona el Cifrado Asimetrico:** El emisor de la comunicacion genera una clave privada y una publica mediante **numeros primos** el emisor envia la clave publica y el receptor devuelve un mensaje cifrado con la clave publica luego el emisor decifra el mensaje con la clave privada.
+**Como Funciona el Cifrado Asimetrico:** El emisor de la comunicacion genera una clave privada y una publica mediante numeros primos el emisor envia la clave publica y el receptor devuelve un mensaje cifrado con la clave publica luego el emisor decifra el mensaje con la clave privada.
 
 **Decifrar con Matematicas:** Se debe realizar una multiplicacion utilizando numeros primos que de el mismo resultado que la clave publica y los numeros primos utilizado en la multiplicacion forman la clave privada.
 
