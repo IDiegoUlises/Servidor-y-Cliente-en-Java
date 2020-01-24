@@ -10,7 +10,7 @@
 
 **Aplicacion De Escritorio:** Corre en Window, Linux y Raspberry Pi de todos los modelos, es compatible con todos los dispositivos mencionados.
 
-**Emigrar el Servidor:** Principalmente se habia diseñado el servidor en python y el cliente en java usted puede emigrar el servidor en python o en cualquier otro lenguaje.
+**Emigrar el Servidor:** Principalmente se habia diseñado el servidor en python y el cliente en java usted puede emigrar el servidor en cualquier otro lenguaje.
 
 **Compatibilidad al Emigrar:** Cuando utilize ```writeUTF();``` enviara 2 caracteres adicionales cuando utilize ```readUTF();``` los  dos primeros caracteres que obtendra se eliminaran esto en el caso que utilize un lenguaje diferente .
 
