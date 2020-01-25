@@ -27,9 +27,9 @@ Los datos que envian no estan cifrado es decir que son vunerable en un **ataque 
 
 **Como Decifrar:** Mi clave publica es ```33``` para poder decifrar se debe realizar multiplicaciones con numeros primos como ```2x3=3``` los numeros por que se estan multiplicando ```2``` y ```3``` **son numeros primos** ahora multiplicamos ```3x11=33``` y el resultado es ```33``` con estos 2 **numeros primos** utilizado para obtener el resultado se decifra la clave privada.
 
-**Decifrar Con Una Computadora Cuantica:** Cuando los procesadores cuanticos que utilizan **quibits** para manejar intrucciones lleguen a hacer el estandar del mercado **este cifrado quedara obsoleto** ya que los procesadores cuanticos tiene un cantidad de computo exponencial, la computadora cuantica de **IBM** puede romper este cifrado en microsegundos.
+**Decifrar en una Computadora Cuantica:** Cuando los procesadores cuanticos que utilizan **quibits** para manejar intrucciones lleguen a hacer el estandar del mercado **este cifrado quedara obsoleto** ya que los procesadores cuanticos tiene un cantidad de computo exponencial, la computadora cuantica de **IBM** puede romper este cifrado en microsegundos.
 
-**Decifrar Con Un SuperComputador:** En **Suiza** existen 2 superordenadores en todo el pais y **alemania** solo existen 14 superordenadores, en todo el planeta solo estan disponible 495 **superordenadores** repartidos por todo el mundo con una potencia de calculo aproximado a **148 petaflops** que realizan más de 1000 billones de operaciones por segundo es todo esto suficiente para romper este cifrado en segundos.
+**Decifrar en un Superordenador:** En **Suiza** existen 2 superordenadores en todo el pais y **alemania** solo existen 14 supercomputadores, en todo el planeta solo estan disponible 495 **superordenadores** repartidos por todo el mundo con una potencia de calculo aproximado a **148 petaflops** que realizan más de 1000 billones de operaciones por segundo es todo esto suficiente para romper este cifrado en segundos.
 
 ## ¿Porque Es Imposible Romper Este Cifrado?
 
