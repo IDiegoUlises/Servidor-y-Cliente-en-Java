@@ -25,7 +25,7 @@ Los datos que envian no estan cifrado es decir que son vunerable en un **ataque 
 
  Se debe realizar una **multiplicacion** utilizando **numeros primos** que de el mismo resultado que la clave publica y los numeros primos utilizado en la multiplicacion forman la clave privada.
 
-**Como Decifrar:** Mi ```clave publica es 33``` para poder decifrar se debe realizar multiplicaciones con numeros primos como ```2x3=3``` los numeros por que se estan multiplicando ```2``` y ```3``` **son numeros primos** ahora multiplicamos ```3x11=33``` y el resultado es ```33``` con estos 2 **numeros primos** utilizado para obtener el resultado se decifra la clave privada.
+**Como Decifrar:** Mi clave publica es ```33``` para poder decifrar se debe realizar multiplicaciones con numeros primos como ```2x3=3``` los numeros por que se estan multiplicando ```2``` y ```3``` **son numeros primos** ahora multiplicamos ```3x11=33``` y el resultado es ```33``` con estos 2 **numeros primos** utilizado para obtener el resultado se decifra la clave privada.
 
 **Decifrar Con Una Computadora Cuantica:** Cuando los procesadores cuanticos que utilizan **quibits** para manejar intrucciones lleguen a hacer el estandar del mercado **este cifrado quedara obsoleto** ya que los procesadores cuanticos tiene un cantidad de computo exponencial, la computadora cuantica de **IBM** puede romper este cifrado en microsegundos.
 
