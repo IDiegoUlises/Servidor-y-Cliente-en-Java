@@ -2,7 +2,8 @@
 
 **Funcion:** Realiza una comunicacion socket por el protocolo **TCP/IP** diseñe este codigo para mi **raspberry** pi 3 sea el servidor para que pueda conectase mi **televisor.**
 
-**Multiprocesos:** Necesitaremos utilizar multiprocesos para usar ```read();``` y ```write();``` simultanamente yo diseñe un algoritmo que no utiliza multiproceso porque la comunicacion la realiza en una solo proceso.
+**Multiprocesos:** Necesitaremos utilizar multiprocesos para usar ```python
+read();``` y ```write();``` simultanamente yo diseñe un algoritmo que no utiliza multiproceso porque la comunicacion la realiza en una solo proceso.
 
 **Bucle Infinito:** En la comunicacion utilizara la funcion de lectura como ```Read();``` es un bucle infinito que solo puede salir cuando recibe un dato para evitar esto puede usar ```SeTimeOut();``` que significa establecer tiempo de respuesta para terminar la conexion.
 
