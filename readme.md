@@ -54,6 +54,7 @@ Para una computadora es imposible que genere numeros aleatorios. Un **ejemplo** 
 ## Finished
 
 **Segunda Parte:** [Crea una base de datos](https://github.com/IDiegoUlises/Crea-una-Base-de-Datos)
+
 **Tercera Parte:** [Algoritmos de seguridad de un servidor](https://github.com/IDiegoUlises/Servidor-y-Cliente-En-Python)
 
 
