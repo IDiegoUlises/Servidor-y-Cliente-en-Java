@@ -21,17 +21,20 @@ Los datos que envian no estan cifrado es decir que son vunerable en un **ataque 
 
 **Como Funciona el Cifrado Asimetrico:** El emisor de la comunicacion genera una clave privada y una publica mediante numeros primos el emisor envia la clave publica y el receptor devuelve un mensaje cifrado con la clave publica luego el emisor decifra el mensaje con la clave privada.
 
-**Decifrar con Matematicas:** Se debe realizar una multiplicacion utilizando numeros primos que de el mismo resultado que la clave publica y los numeros primos utilizado en la multiplicacion forman la clave privada.
+## Como Romper Este Cifrado 
+
+ Se debe realizar una multiplicacion utilizando numeros primos que de el mismo resultado que la clave publica y los numeros primos utilizado en la multiplicacion forman la clave privada.
 
 **Como Decifrar:** Mi ```clave publica es 33``` para poder decifrar se debe realizar multiplicaciones con numeros primos como ```2x3=3``` los numeros por que se estan multiplicando ```2``` y ```3``` **son numeros primos** ahora multiplicamos ```3x11=33``` y el resultado es ```33``` con estos 2 **numeros primos** utilizado para obtener el resultado se decifra la clave privada.
+
+**Decifrar Con Una Computadora Cuantica:** Cuando los procesadores cuanticos que utilizan quibits para manejar intrucciones lleguen a hacer el estandar del mercado **este cifrado quedara obsoleto** ya que los procesadores cuanticos tiene un cantidad de computo exponencial, la computadora cuantica de **IBM** puede romper este cifrado en microsegundos.
+
+**Decifrar Con Un SuperComputador:** En Suiza existen 2 superordenadores en todo el pais y alemania solo existen 14 superordenadores, en todo el planeta solo estan disponible 495 superordenadores repartidos por todo el mundo con una potencia de calculo aproximado a **148 petaflops** que realizan más de 1000 billones de operaciones por segundo es todo esto suficiente para romper este cifrado en segundos.
 
 ## ¿Porque Es Imposible Romper Este Cifrado?
 
 Un atacante o un hacker intentara decifrar el mensaje con el metodo anterior y lo va **poder decifrar** el inconveniente es que el tiempo que se va demorar en decifrarlo van hacer **60 años o mas** la seguridad de este cifrado se basa que necesitara una enorme cantidad de computo para poder decifrarlo algo que para la mayoria de dispositivos es **imposible.**
 
-**Decifrar Con Una Computadora Cuantica:** Cuando los procesadores cuanticos que utilizan quibits para manejar intrucciones lleguen a hacer el estandar del mercado **este cifrado quedara obsoleto** ya que los procesadores cuanticos tiene un cantidad de computo exponencial, la computadora cuantica de **IBM** puede romper este cifrado en microsegundos.
-
-**Decifrar Con Un SuperComputador:** En Suiza existen 2 superordenadores en todo el pais y alemania solo existen 14 superordenadores, en todo el planeta solo estan disponible 495 superordenadores repartidos por todo el mundo con una potencia de calculo aproximado a **148 petaflops** que realizan más de 1000 billones de operaciones por segundo es todo esto suficiente para romper este cifrado en segundos.
 
 ## Vunerabilidad por Generar Claves Repetitivas
 Para una computadora es imposible que genere numeros aleatorios. Un **ejemplo** tu computadora generara 3 numeros aleatorios que seran ```3,6 y 9``` luego apagas el computador lo vuelves a encender vuelves generar numeros aleatorio  estos numeros aleatorios se volveran a repetir ```3,6 y 9``` es decir siempre va a repetir los mismos numeros para siempre.
