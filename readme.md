@@ -59,10 +59,3 @@ Para una computadora es imposible que genere numeros aleatorios. Un **ejemplo** 
 **Segunda Parte:** [Crea una base de datos](https://github.com/IDiegoUlises/Crea-una-Base-de-Datos)
 
 **Tercera Parte:** [Algoritmos de seguridad de un servidor](https://github.com/IDiegoUlises/Servidor-y-Cliente-En-Python)
-
-
-<p align="center">
-  <img width="150" height="150" src="https://github.com/IDiegoUlises/servidor-y-cliente-en-java/blob/master/Imagenes/Emoji-Positivo.png">
-</p>
-
-## Esto me costo mucho tiempo, meses de investigacion y aprendizaje porfavor deja un comentario positivo si tambien te resulto util unos de mis proyectos.
