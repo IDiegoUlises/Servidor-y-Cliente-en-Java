@@ -33,7 +33,7 @@ Los datos que envian no estan cifrado es decir que son vunerable en un **ataque 
 
 ## ¿Porque Es Imposible Romper Este Cifrado?
 
-Un atacante o un hacker intentara decifrar el mensaje con el metodo anterior y lo va **a decifrar** el inconveniente es que el tiempo que se va demorar en decifrarlo van hacer **60 años o mas** la seguridad de este cifrado se basa que necesitara una enorme cantidad de computo para poder decifrarlo algo que para la mayoria de dispositivos es **imposible.**
+Un **atacante** o un **hacker** intentara decifrar el mensaje con el metodo anterior y lo va **a decifrar** el inconveniente es que el tiempo que se va demorar en decifrarlo van hacer **60 años o mas** la seguridad de este cifrado se basa que necesitara una enorme cantidad de computo para poder decifrarlo algo que para la mayoria de dispositivos es **imposible.**
 
 
 ## Vunerabilidad por Generar Claves Repetitivas
