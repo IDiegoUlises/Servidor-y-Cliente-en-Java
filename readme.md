@@ -29,17 +29,16 @@ Se realiza una **multiplicacion** utilizando **numeros primos** y el resultado d
 
 **Decifrar en una Computadora Cuantica:** Cuando los procesadores cuanticos que utilizan **quibits** para manejar intrucciones lleguen a hacer el estandar del mercado **este cifrado quedara obsoleto** ya que los procesadores cuanticos tiene un cantidad de computo exponencial la computadora cuantica de **IBM** puede romper este cifrado en microsegundos.
 
-**Decifrar en un Superordenador:** En **Suiza** existen 2 superordenadores en todo el pais y **alemania** solo existen 14 supercomputadores, en todo el planeta solo estan disponible 495 **superordenadores** repartidos por todo el mundo con una potencia de calculo aproximado a **148 petaflops** que realizan más de 1000 billones de operaciones por segundo es todo esto suficiente para romper este cifrado en segundos.
+**Decifrar en un Superordenador:** En **Suiza** existen 2 superordenadores en todo el pais en todo el planeta solo estan disponible 495 **superordenadores** repartidos por todo el mundo con una potencia de calculo aproximado a **148 petaflops** que realizan más de 1000 billones de operaciones por segundo es suficiente para romper este cifrado en segundos.
 
 ## ¿Porque Es Imposible Romper Este Cifrado?
 
-Un **atacante** o un **hacker** intentara decifrar el mensaje con el metodo anterior y lo va **a decifrar** el inconveniente es que el tiempo que se va demorar en decifrarlo van hacer **60 años o mas** la seguridad de este cifrado se basa que necesitara una enorme cantidad de computo para poder decifrarlo algo que para la mayoria de dispositivos es **imposible.**
-
+Un **atacante** intentara decifrar la conversacion con el metodo anterior y lo va a **decifrar** el inconveniente es el tiempo que se va demorar en decifrarlo que van hacer **60 años** o mas la seguridad de este cifrado se basa que necesitara una enorme cantidad de computo para poder decifrarlo que para la mayoria de dispositivos es **imposible.**
 
 ## Vunerabilidad por Generar Claves Repetitivas
-Para una computadora es imposible que genere numeros aleatorios. Un **ejemplo** tu computadora generara 3 numeros aleatorios que seran ```3,6 y 9``` luego apagas el computador lo vuelves a encender vuelves generar numeros aleatorio  estos numeros aleatorios se volveran a repetir ```3,6 y 9``` es decir siempre va a repetir los mismos numeros para siempre.
+Para una computadora es imposible generar numeros aleatorios, un **ejemplo** es tu computadora que generara 3 numeros aleatorios que seran ```3,6 y 9``` luego apagas tu computador lo vuelves a encender vuelves generar numeros aleatorio estos numeros aleatorios generados se volveran a repetir ```3,6 y 9``` siempre tu computadora va a repetir el mismo patron de numeros.
 
-**Como Generar Numeros Aleatorios:** Se pueden generar numeros aleatorios basada en la **medicion del clima** de un lugar ya que la temperatura de por ejemplo en Francia nadie puede predecir exactamente el patron del clima.
+**Como Generar Numeros Aleatorios:** Se pueden generar numeros aleatorios basados en la **medicion del clima** ya que la temperatura de un lugar no es predecible.
 
 
 
