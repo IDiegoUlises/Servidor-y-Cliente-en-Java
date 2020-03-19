@@ -23,7 +23,7 @@ Los datos enviados no estan cifrado son vunerable a un **ataque de hombre en el 
 
 ## Como Romper Este Cifrado 
 
-Se debe realizar una **multiplicacion** utilizando **numeros primos** que deben dar el resultado de la misma clave publica y los numeros primos utilizados en la multiplicacion es la clave privada.
+Se realiza una **multiplicacion** utilizando **numeros primos** y el resultado de la multiplicacion debe ser la misma que la clave publica y los numeros primos utilizados en la multiplicacion es la clave privada.
 
 **Decifrar:** Mi clave publica es ```33``` para decifrar la clave privada se realizan multiplicaciones con numeros primos como ```2x3=3``` los numeros multiplicados ```2``` y ```3``` **son numeros primos** ahora multiplicamos ```3x11=33``` y el resultado es ```33``` con los **numeros primos** utilizado para obtener el resultado se obtiene la clave privada.
 
