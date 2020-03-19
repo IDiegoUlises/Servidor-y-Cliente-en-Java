@@ -15,7 +15,7 @@
 **Compatibilidad al Emigrar:** Cuando use ```writeUTF();``` enviara 2 caracteres adicionales cuando utilize ```readUTF();``` los dos primeros caracteres recibidos se eliminaran esto en el caso que incorpore con otro lenguaje diferente esto es porque se establece entre el emisor y receptor que es una comunicacion UTF-8.
 
 ## Seguridad
-Los datos enviados no estan cifrado es decir que son vunerable a un **ataque de hombre en el medio** se debe agregar un cifrado cuando los datos son **sensibles** como **contraseñas**.
+Los datos enviados no estan cifrado son vunerable a un **ataque de hombre en el medio** se debe agregar un cifrado cuando los datos enviados son **sensibles** como **contraseñas**.
 
 **Como Proteger Datos Sensibles**: Se debe implemantar un cifrado asimetrico con firmas certificadas por el algoritmo **RSA** todo esto esto es una parte de **seguridad de la capa de transporte(TLS)**.
 
