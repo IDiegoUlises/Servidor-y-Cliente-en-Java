@@ -21,7 +21,7 @@ Los datos enviados no estan cifrado son vunerable a un **ataque de hombre en el 
 
 **Como Funciona el Cifrado Asimetrico:** El emisor de la comunicacion genera una clave privada y una publica mediante numeros primos el emisor envia la clave publica y el receptor devuelve un mensaje cifrado con la clave publica luego el emisor decifra el mensaje con la clave privada.
 
-## Como Romper Este Cifrado 
+## Como Romper el Cifrado Asimetrico
 
 Se realiza una **multiplicacion** utilizando **numeros primos** y el resultado de la multiplicacion debe ser la misma que la clave publica y los numeros primos utilizados en la multiplicacion es la clave privada.
 
