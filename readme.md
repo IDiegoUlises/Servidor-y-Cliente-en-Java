@@ -2,7 +2,7 @@
 
 **Funcion:** Realiza una comunicacion socket por el protocolo **TCP/IP** diseñe este codigo para mi **raspberry** pi 3 sea el servidor para que pueda conectarse a mi **televisor.**
 
-**Multiprocesos:** Necesitaremos utilizar multiprocesos para usar ```read(); ``` y ```write();``` simultanamente yo diseñe un algoritmo que no utiliza multiproceso porque la comunicacion la realiza en una solo proceso.
+**Multiprocesos:** Necesitaremos utilizar multiprocesos para usar ```read(); ``` y ```write();``` simultanamente yo diseñe un algoritmo que no utiliza multiproceso porque la comunicacion se realiza en una solo proceso.
 
 **Bucle Infinito:** En la comunicacion utilizara la funcion de lectura como ```Read();``` es un bucle infinito que solo puede salir cuando recibe un dato para evitar esto puede usar ```SeTimeOut();``` que significa establecer tiempo de respuesta para terminar la conexion.
 
@@ -12,7 +12,7 @@
 
 **Emigrar el Servidor:** Principalmente se habia diseñado el servidor en **python** y el cliente en **java** usted puede emigrar el servidor en cualquier otro lenguaje.
 
-**Compatibilidad al Emigrar:** Cuando use ```writeUTF();``` enviara 2 caracteres adicionales cuando utilize ```readUTF();``` los dos primeros caracteres recibidos se eliminaran esto en el caso que incorpore con otro lenguaje diferente esto caracter es porque se establece en emisor y receptor es una comunicacion UTF-8.
+**Compatibilidad al Emigrar:** Cuando use ```writeUTF();``` enviara 2 caracteres adicionales cuando utilize ```readUTF();``` los dos primeros caracteres recibidos se eliminaran esto en el caso que incorpore con otro lenguaje diferente esto es porque se establece entre el emisor y receptor que es una comunicacion UTF-8.
 
 ## Seguridad
 Los datos que envian no estan cifrado es decir que son vunerable en un **ataque de hombre en el medio** ahi que tener esto en cuenta si se envian datos **sensibles** como por ejemplo **contraseñas**.
