@@ -29,7 +29,7 @@ Se realiza una **multiplicacion** utilizando **numeros primos** y el resultado d
 
 **Decifrar en una Computadora Cuantica:** Cuando los procesadores cuanticos que utilizan **quibits** para manejar intrucciones lleguen a hacer el estandar del mercado **este cifrado quedara obsoleto** ya que los procesadores cuanticos tiene un cantidad de computo exponencial la computadora cuantica de **IBM** puede romper este cifrado en microsegundos.
 
-**Decifrar en un Superordenador:** En **Suiza** existen 2 superordenadores en todo el pais en todo el planeta solo estan disponible 495 **superordenadores** repartidos por todo el mundo con una potencia de calculo aproximado a **148 petaflops** que realizan más de 1000 billones de operaciones por segundo es suficiente para romper este cifrado en segundos.
+**Decifrar en un Superordenador:** En **Suiza** existen 2 superordenadores en todo el pais y en todo el planeta solo estan disponible 495 **superordenadores** repartidos por todo el mundo con una potencia de calculo aproximado a **148 petaflops** que realizan más de 1000 billones de operaciones por segundo es suficiente para romper este cifrado en segundos.
 
 ## ¿Porque Es Imposible Romper Este Cifrado?
 
