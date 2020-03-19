@@ -31,7 +31,7 @@ Se realiza una **multiplicacion** utilizando **numeros primos** y el resultado d
 
 **Decifrar en un Superordenador:** En **Suiza** existen 2 superordenadores en todo el pais y en todo el planeta solo estan disponible 495 **superordenadores** repartidos por todo el mundo con una potencia de calculo aproximado a **148 petaflops** que realizan más de 1000 billones de operaciones por segundo es suficiente para romper este cifrado en segundos.
 
-## ¿Porque Es Imposible Romper Este Cifrado?
+## ¿Porque Es imposible Romper el Cifrado Asimetrico?
 
 Un **atacante** intentara decifrar la conversacion con el metodo anterior y lo va a **decifrar** el inconveniente es el tiempo que se va demorar en decifrarlo que van hacer **60 años** o mas la seguridad de este cifrado se basa que necesitara una enorme cantidad de computo para poder decifrarlo que para la mayoria de dispositivos es **imposible.**
 
