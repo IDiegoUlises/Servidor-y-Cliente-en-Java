@@ -17,7 +17,7 @@
 ## Seguridad
 Los datos enviados no estan cifrado son vunerable a un **ataque de hombre en el medio** se debe agregar un cifrado cuando los datos enviados son **sensibles** como **contraseñas**.
 
-**Como Proteger Datos Sensibles**: Se debe implemantar un cifrado asimetrico con firmas certificadas por el algoritmo **RSA** todo esto esto es una parte de **seguridad de la capa de transporte(TLS)**.
+**Como Proteger Datos Sensibles**: Se implemanta un cifrado asimetrico con firmas certificadas por el algoritmo **RSA** todo esto esto es una parte de **seguridad de la capa de transporte(TLS)**.
 
 **Como Funciona el Cifrado Asimetrico:** El emisor de la comunicacion genera una clave privada y una publica mediante numeros primos el emisor envia la clave publica y el receptor devuelve un mensaje cifrado con la clave publica luego el emisor decifra el mensaje con la clave privada.
 
@@ -25,7 +25,7 @@ Los datos enviados no estan cifrado son vunerable a un **ataque de hombre en el 
 
  Se debe realizar una **multiplicacion** utilizando **numeros primos** que de el mismo resultado que la clave publica y los numeros primos utilizado en la multiplicacion forman la clave privada.
 
-**Como Decifrar:** Mi clave publica es ```33``` para poder decifrar se debe realizar multiplicaciones con numeros primos como ```2x3=3``` los numeros por que se estan multiplicando ```2``` y ```3``` **son numeros primos** ahora multiplicamos ```3x11=33``` y el resultado es ```33``` con estos 2 **numeros primos** utilizado para obtener el resultado se decifra la clave privada.
+**Decifrar:** Mi clave publica es ```33``` para decifrar la clave privada se realizan multiplicaciones con numeros primos como ```2x3=3``` los numeros multiplicados ```2``` y ```3``` **son numeros primos** ahora multiplicamos ```3x11=33``` y el resultado es ```33``` con los **numeros primos** utilizado para obtener el resultado se obtiene la clave privada.
 
 **Decifrar en una Computadora Cuantica:** Cuando los procesadores cuanticos que utilizan **quibits** para manejar intrucciones lleguen a hacer el estandar del mercado **este cifrado quedara obsoleto** ya que los procesadores cuanticos tiene un cantidad de computo exponencial la computadora cuantica de **IBM** puede romper este cifrado en microsegundos.
 
