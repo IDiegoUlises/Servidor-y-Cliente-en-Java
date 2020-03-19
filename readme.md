@@ -8,7 +8,7 @@
 
 **App De Android:** Para ejecutarlo en una aplicacion android debe asignar los permisos correspondiende de la aplicacion para el correcto funcionamiento.
 
-**Aplicacion De Escritorio:** Corre en Window, Linux y Raspberry Pi de todos los modelos, es compatible con todos los dispositivos mencionados.
+**Aplicacion De Escritorio:** Corre en Window, Linux y Raspberry Pi de todos los modelos, es compatible con la mayoria de los dispositivos.
 
 **Emigrar el Servidor:** Principalmente se habia diseñado el servidor en **python** y el cliente en **java** usted puede emigrar el servidor en cualquier otro lenguaje.
 
